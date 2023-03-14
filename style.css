@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1{
+    color: aliceblue;
+    align-items: center;
+    padding: 20%;
+    font-size:8em;
+    background-color: rgb(176, 75, 194);
+    
+}
+nav li{
+    display:inline-flex;
+    font-weight: 100;
+}
+
+h2{
+    justify-content:flex-start;
+    margin: 10%;
+    color: rgb(0, 0, 0);
+}
+h3{
+    display: flex;
+    margin: 10%;
+}
+nav a{
+    color: white;
+    display: flex;
+    font-size: 3em;
+    margin: 6em;
+    padding:0%;
+    text-align: center;
+    justify-content: center;
+}
+nav ul{
+   margin: 5%;
+   padding: 20%;
+   list-style-type: none;
+   background-color: rgb(114, 151, 192);
+}
